@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "ekyojna",
+    "slug": "ekyojna",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/ekyojna_logo.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/ekyojna_logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/ekyojna_logo.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
